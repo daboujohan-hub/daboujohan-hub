@@ -1,27 +1,40 @@
-# 👋 DEV.D.A.J - Diomandé Abou Johan | Aboudev
+# 👋 Salut, je suis Abou Johan - DEV.D.A.J 🇨🇮
 
-**Fondateur @ AbouDev Labs | Créateur de TermChat | Développeur Full-Stack & Cybersécurité | Côte d'Ivoire 🇨🇮 - San Pedro**
+**Développeur indépendant à San Pedro, Côte d'Ivoire. Je me lance avec de petites applications utiles, et je construis mes premiers projets en public.**
 
-Je suis **Diomandé Abou Johan**, alias **DEV.D.A.J / Aboudev (daboujohan-hub)**. Développeur Full-Stack indépendant basé à San Pedro, Côte d'Ivoire.
+Marque : **DEV.D.A.J / AbouDev Labs**
 
-### 🚀 Projet Phare : TermChat by DEV.D.A.J
-**[TermChat](https://github.com/daboujohan-hub/termchat)** - Messagerie terminal mondiale chiffrée de bout en bout (Fernet/AES, bcrypt, TLS, anti-bruteforce).
-> Messagerie sécurisée pour développeurs - Créée par Diomandé Abou Johan
+### 🤝 Travailler avec moi
+- **Une application pour toi** (page de présentation, petite boutique en ligne, application simple) : écris-moi et explique ton besoin. Selon le type d'application, je te dis franchement si je peux la faire ou non.
+- **Un grand projet** : j'aime participer et apprendre avec une équipe.
+- **Débutant ?** Pose-moi tes questions, j'explique simplement.
 
-`pkg install termchat` sur Termux | Serveur sur Render | Client Python
+### ✅ Pourquoi me contacter
+- Tu me joins directement sur WhatsApp ou par appel
+- J'explique simplement, sans mots compliqués
+- Tu peux voir une démo avant de décider
+- Je te dis clairement ce que je sais faire et ce que je ne sais pas encore faire
 
-### 🛠️ Stack
-**Langages:** Python, JavaScript, React Native, Node.js
-**Expertise:** Cybersécurité, Firebase, Sockets, API REST, Linux/Termux
-**Outils:** Git, Render, OpenSSL, Cryptography
+### 🧪 Mes projets en cours (pas encore publiés)
+- **AURA TALK** - assistant vocal pour comprendre le monde sans savoir lire
+- **TermChat** - messagerie pour développeurs
+- **VITE API** - API de paiement mobile
+- **LIRA** - mon IA
+- **Diomandé** - application familiale
+- **DIG.DAG** - messagerie hors-ligne
 
-### 🎯 Objectif
-Rejoindre une équipe ambitieuse comme **xAI** pour construire des systèmes robustes, scalables et sécurisés.
+Les démos sont sur mon portfolio : https://daboujohan-hub.github.io
 
-### 📫 Contact Officiel DEV.D.A.J
-- GitHub: [@daboujohan-hub](https://github.com/daboujohan-hub)
-- Email: daboujohan@gmail.com / contact@aboudev.ci
-- Site: https://aboudev.ci
-- TikTok: @diomandeabou496
+### 🛠️ Ce que j'utilise
+Python, JavaScript, Node.js, React Native, Firebase, Git, Termux
 
-*"Construire des choses utiles et sécurisées, un projet après l'autre - DEV.D.A.J"*
+### 📫 Contact
+- 💬 WhatsApp : https://wa.me/2250565961287
+- 📞 Appel direct : 01 70 40 41 09
+- 🌐 Portfolio : https://daboujohan-hub.github.io
+- Email : daboujohan@gmail.com
+- GitHub : [@daboujohan-hub](https://github.com/daboujohan-hub)
+- TikTok : [@aboujohan.dev](https://www.tiktok.com/@aboujohan.dev)
+- Facebook : [DEV.D.A.J](https://www.facebook.com/profile.php?id=61575741733606)
+
+*"Construire des choses utiles, un projet après l'autre - DEV.D.A.J"* 🇨🇮
